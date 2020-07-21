@@ -19,15 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ricardo Almeida blog
-email: ricardo.almeida.mail@gmail.com
+email: ttricardo.almeida.mail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site pessoal. O meu CV, os projetos actuais, alguns posts onde poderei partilhar experiências.
   Interessado em Electrónica e Informática
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ricardomalmeida.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @Ricmalmeida
-github_username:  ricardomalmeida
-
+github_username:  ricardomalmeidaxx
+twitter_username: XXRicmalmeida
 # Build settings
 theme: minima
 plugins:
