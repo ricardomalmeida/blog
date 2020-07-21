@@ -22,11 +22,11 @@ title: Ricardo Almeida blog
 email: ttricardo.almeida.mail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site pessoal. O meu CV, os projetos actuais, alguns posts onde poderei partilhar experiências.
-  Interessado em Electrónica e Informática
+  Interessado em Electrónica e Informática.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ricardomalmeida.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ricardomalmeidaxx
-twitter_username: XXRicmalmeida
+github_username:  ricardomalmeida
+twitter_username: Ricmalmeida
 # Build settings
 theme: minima
 plugins:
