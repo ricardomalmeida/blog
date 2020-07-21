@@ -5,12 +5,9 @@ permalink: /about/
 ---
 
 Este é o meu primeiro blog, ligado a também uma primeira página pessoal.
-usando 
-[jekyll-organization]: https://github.com/jekyll
-Simples, básico como um primeiro pontapé de saída.
 
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Simples, básico como um primeiro pontapé de saída, usando github como hospedeiro e 
+ [jekyllrb.com](https://jekyllrb.com/) como motor.
 
 
