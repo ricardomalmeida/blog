@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-{% include analytics.html %}
+
 
 Este é o meu primeiro blog, ligado a também uma primeira página pessoal.
 
