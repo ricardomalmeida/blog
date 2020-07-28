@@ -29,7 +29,7 @@ github_username:  ricardomalmeida
 twitter_username: Ricmalmeida
 
 # Google Analytics
-google_analytics: UA-173216209-1
+#google_analytics: UA-173216209-1
 
 # Build settings
 theme: minima
