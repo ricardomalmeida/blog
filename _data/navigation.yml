@@ -2,10 +2,10 @@
 main:
   - title: "Início"
     url: https://ricardomalmeida.github.io/
-  - title: "Acerca"
-    url: /about/
-  - title: "Acercaurl"
-    url:  https://ricardomalmeida.github.io/about
+  #- title: "Acerca"
+  #  url: /about/
+  #- title: "Acercaurl"
+  #  url:  https://ricardomalmeida.github.io/about
 
 
   #- title: "Quick-Start Guide"
