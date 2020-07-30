@@ -1,9 +1,13 @@
 # main links
 main:
   - title: "Início"
-    url: /
+    url: https://ricardomalmeida.github.io/
   - title: "Acerca"
     url: /about/
+  - title: "Acercaurl"
+    url:  https://ricardomalmeida.github.io/about
+
+
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
