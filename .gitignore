@@ -19,5 +19,5 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
-_local_config.yml
+_config_dev.yml
 

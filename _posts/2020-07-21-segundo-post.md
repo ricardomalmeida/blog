@@ -2,7 +2,7 @@
 layout: single
 #title:  "Primeiro post!"
 date:  2020-07-21 22:34:56 +0100
-categories: jekyll linux
+categories: jekyll
 ---
 
 ## Segundo post !
