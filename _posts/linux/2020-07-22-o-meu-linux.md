@@ -5,14 +5,11 @@ date:  2020-07-22 12:34:56 +0100
 categories: linux informática
 ---
 # O meu Linux!
-Estou há dois anos com o ArchLinux.
-Estou super satisfeito com a minha escolha!.
+  Estou há dois anos com o ArchLinux.
+  Estou super satisfeito com a minha escolha!.
 
 
 
-{% highlight bash %}
-uname -ros
-{% endhighlight %}
 
 {% highlight bash %}
 
