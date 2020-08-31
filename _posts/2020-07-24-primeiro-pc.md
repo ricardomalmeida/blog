@@ -9,3 +9,9 @@ header:
 ---
 
 # O meu primeiro PC
+Comprado na loja da Singer do Centro Comercial Dallas, o meu primeiro PC foi o PC1 da Olivetti.
+Um XT com;
+- 640 KRAM
+- drive de 3.5" de 720K
+- Sistema operativo DOS 3.21
+- Vinha com um monitor monocromático e saída video CGA

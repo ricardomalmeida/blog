@@ -19,4 +19,6 @@ Linux 5.7.10-arch1-1 GNU/Linux
 
 {% endhighlight %}
 
+É um rolling simples e descomplicado-
+A comunidade é coesa e tem uma wiki fantástica.
 
